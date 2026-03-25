@@ -59,6 +59,6 @@ Durante o desenvolvimento deste projeto, foram reforçados conceitos como:
 
 ## 📌 Autor
 
-Desenvolvido por **Saulo Lima** ✌️
+Desenvolvido por **Saulo Lima** 👾
 Desafio proposto pelo Curso em Vídeo.
 
