@@ -3,7 +3,7 @@
 
 Este projeto foi desenvolvido como parte do **Desafio 12 do Curso em Vídeo**, com o objetivo de recriar um cordel em formato de página web utilizando HTML e CSS.
 
-## 🚀 Acesse o projeto
+##  Acesse o projeto
 
 🔗 https://saulo-lima.github.io/projeto-cordel/
 
